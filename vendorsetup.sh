@@ -1,1 +1,1 @@
-add_lunch_combo aosip_bacon-userdebug
+add_lunch_combo du_bacon-userdebug
